@@ -5,6 +5,8 @@ I programmed the device to connect to a Wi-Fi network and respond to usercommand
 I used relays to switch the AC mains power to the appliances safely, ensuringisolation between the low-voltage control circuit and the high-voltage AC lines. 
 The device was housed in a protective enclosure, andproper safety measures were followed while wiring the AC connections.
 
+Download Blynk App 
+
 Required components for this WiFi relay module:
 1. NodeMCU board
 2. Relay Module 5volt
